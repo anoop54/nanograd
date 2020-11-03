@@ -8,6 +8,6 @@ loss = model.compute_loss(target,output) -> compute final loss
 model.backward() -> update weights based on back prop
 
 So we have: 
-model.forward()
-model.compute_loss()
-model.backward() 
+*model.forward()
+*model.compute_loss()
+*model.backward() 
